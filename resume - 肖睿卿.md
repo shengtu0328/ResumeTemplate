@@ -47,7 +47,7 @@
 
 - 熟悉Java语言、JUC，了解JVM
 - 熟悉SpringBoot，Spring，SpringSecurity，SpringCloud 微服务全家桶。了解工作原理 ，能独立开发项目
-- 熟悉MyBatis，SpringDataJPA
+- 熟悉MyBatis，MyBatis-Plus，SpringDataJPA
 - 熟悉MySQL，有索引优化，SQL调优经验
 - 熟悉Redis，Redisson及其分布式使用场景
 - 熟悉Elasticsearch，RocketMQ，RabbitMQ
@@ -56,13 +56,13 @@
 ## <img src="resume/project.svg" height="20px"> 工作和项目经历
 
 ### 上海极链科技发展集团有限公司，JAVA开发 <span class="right" style="float:right">2021.12 ~ 2023.07</span>
-####  | 新神眼系统 | 舆情监控系统 | 2022.07 - 2023.06 |
+####  | 新神眼系统 | 舆情监控系统 | 智慧水务 | 2022.07 - 2023.06 |
 
 项目描述： 
 
-- 神眼系统是基于AI学习算法，检测互联网视频/音频/图片/文本中的敏感等风险内容的内容审核系统
+- 神眼系统是基于AI学习算法，检测视频/音频/图片/文本中的敏感等风险内容的内容审核系统
 
-- 技术方案：SpringBoot，SpringSecurity，Nacos，ELK，RocketMQ，Redis，MySQL
+- 技术方案：SpringBoot，SpringSecurity，Nacos，ELK，RocketMQ，Redis，MyBatis，MySQL
 
 我的职责：
 
@@ -83,9 +83,9 @@
 
 项目描述： 
 
-- 星愿宇宙是一个围绕数字藏品线上交易，并带有慈善性质的线上交易平台。功能覆盖数字藏品的发行与管理、用户间交易与拍卖
+- 星愿宇宙是一个围绕数字藏品线上交易，并带有慈善性质的线上交易平台。功能覆盖数字藏品的发行与管理、交易
 
-- 技术方案：SpringBoot，SpringSecurity，Nacos，ELK，RocketMQ，Redis，MySQL
+- 技术方案：SpringBoot，SpringSecurity，Nacos，ELK，RocketMQ，Redis，MyBatis，MySQL
 
 我的职责：
 
