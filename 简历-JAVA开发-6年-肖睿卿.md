@@ -45,7 +45,7 @@
 
 ## <img src="resume/skill.svg" height="20px"> 专业技能
 
-- Java基础扎实，熟悉JUC，了解内存模型，理解JVM基本原理。熟悉常用的设计模式，具有良好的编码习惯
+- Java基础扎实，熟悉集合，JUC，了解内存模型，理解JVM基本原理。熟悉常用的设计模式，具有良好的编码习惯
 - 熟悉SpringBoot、Spring、SpringSecurity、SpringCloud 微服务全家桶。了解工作原理 ，能独立开发项目
 - 熟悉MyBatis、MyBatis-Plus
 - 熟悉MySQL，有一定的索引优化，SQL调优经验
@@ -55,7 +55,7 @@
 
 ## <img src="resume/project.svg" height="20px"> 工作和项目经历
 
-### 上海极链科技发展集团有限公司，JAVA开发 <span class="right" style="float:right">2021.12 ~ 2023.07</span>
+### 上海极链科技发展集团有限公司-JAVA开发 <span class="right" style="float:right">2021.12 ~ 2023.07</span>
 ####  | 新神眼系统 | 舆情监控系统 | 智慧水务 | 2022.07 - 2023.06 |
 
 项目描述： 
@@ -86,9 +86,9 @@
 
 - 负责平台订单和藏品的开发
 
-- 使用Redis Incr 和 MySQL 行锁实现库存控制
+- 使用Redis DECR 和 MySQL 行锁实现库存控制
 
-### 上海添玑网络服务有限公司，JAVA开发 <span class="right" style="float:right">2020.12 ~  2021.12 </span>
+### 上海添玑网络服务有限公司-JAVA开发 <span class="right" style="float:right">2020.12 ~  2021.12 </span>
 ####  | 添玑商城 |  2021.07 - 2021.12 |
 
 项目描述： 
@@ -116,11 +116,12 @@
 - 负责研发文件上传功能，调用阿里云OSS完成文件上传，水印及缩印
 - 使用metadata-extractor校验照片exif信息，并且进行加密和签名给提交任务时校验
 - 使用SpringSecurityOauth2和Zuul完成不同端的认证和授权
+### 上海出奇信息科技有限公司-JAVA开发 <span class="right" style="float:right">2019.05 ~  2020.12 </span>
+### 哔哔叭叭智能科技发展有限公司-JAVA开发 <span class="right" style="float:right">2018.12 ~  2019.03</span>
+### 上海移通网络有限公司-JAVA开发 <span class="right" style="float:right">2017.08 ~  2018.10</span>
 
 
 
 ## <img src="resume/education.svg" height="20px"> 教育经历
 
-### 上海电机学院<span class="right" style="float:right">2013.09 ~ 2017.07</span>
-
-- 本科统招 / 软件工程
+### 上海电机学院 本科统招 / 软件工程<span class="right" style="float:right">2013.09 ~ 2017.07</span>
