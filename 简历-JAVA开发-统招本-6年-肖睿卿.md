@@ -48,7 +48,7 @@
 - Java基础扎实，熟悉集合，JUC，了解内存模型，理解JVM基本原理。熟悉常用的设计模式，具有良好的编码习惯
 - 熟悉SpringBoot、Spring、SpringSecurity、SpringCloud 微服务全家桶。了解工作原理 ，能独立开发项目
 - 熟悉MyBatis、MyBatis-Plus
-- 熟悉MySQL，有一定的索引优化，SQL调优经验
+- 熟悉MySQL，对数据库中的锁，索引有一定的理解，有一定的索引优化，SQL调优经验
 - 熟悉Redis，Redisson及其分布式使用场景。比如：缓存穿透、击穿、雪崩、双写一致等
 - 熟悉Elasticsearch、RocketMQ、RabbitMQ
 - 了解Netty、Docker、K8s、Vue、Axios、Vue Router、Pinia、Element UI
